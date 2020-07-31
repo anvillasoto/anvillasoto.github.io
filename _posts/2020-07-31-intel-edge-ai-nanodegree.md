@@ -1,0 +1,37 @@
+- - -
+
+## layout: post
+title: "Intel® Edge AI for IoT Developers"
+subtitle: "My journey towards finishing this scholarship from Udacity"
+date: 2020-07-31 03:36:00 +0800
+background: '/img/posts/2020-07-31-intel-edge-ai-nanodegree/cover.jpg'
+
+On April 1, 2019, I received an email from Udacity telling me that I won a scholarship and the message reads something like this:
+<blockquote>Congratulations! We're very happy to offer you a Nanodegree program in the *Intel ® Edge AI Scholarship*. Out of thousand of students in the Scholarship OpenVINO Foundational Course, your progress in the course and dedication in the community really stood out. We’ve been impressed and we’re excited for you to continue the journey!</blockquote>Actually, that is true. Out of about 11,000 participants I managed to be in one of 750 scholarship awardees for the brand new Intel® Edge AI for IoT Developers Nanodegree. And guess what? I also got a badge!
+
+<br>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="/img/posts/2020-07-31-intel-edge-ai-nanodegree/scholarship_badge.jpg" alt="Scholarship Badge" width="500" height="500">
+
+<br>
+To be honest with you, this is not the first time that I got a scholarship from Udacity. I was also part of Secure and Private AI scholarship  from Facebook and Bertelsmann Technology Scholarship, to which I earned Deep Learning and Cloud Devops Engineer Nanodegree seats respectively.
+
+In this article, I want to share my experience working on the three projects and how I managed to graduate near the program deadline (the day of this writing).
+
+<h3>Program Background
+</h3>The data science or machine learning projects prioritizes modeling and deployment of applications as part of their end-to-end process. A lot of times, machine learning application deployment needs a lot of compute resources in order for them to be accessed by stakeholders. Not to mention the cost of modeling which may need advanced compute environments with high powered CPUs and GPUs. And what if the project must be deployed in a site with limited to no connectivity but expects to deliver high accuracy and performance with real-time processing requirements? What if the organization has sensitive information that neededs to be processed but cannot risk running them to cloud for privacy reasons?
+
+This is where local processing or <i>**processing on the**</i> <b>*edge*</b> is important compare to running it the application in the cloud which can be problematic for scenarios mentioned above. If processing can be done in-device, needing connectivity to the cloud is unnecessary which will address issues of latency and privacy.
+
+Enter Intel ® OpenVINO. With this tool, we leverage pre-trained models available in the Intel ® Distribution of OpenVINO Toolkit™, convert and optimize other models with their own implementation of Model Optimizer, and perform inference with their implementation of the Inference Engine.
+
+<h3>My Experience
+</h3><h4>Edge AI Fundamentals with OpenVINO™
+</h4>For the first part of the course, Instructor Michael Virgo introduces AI at the edge and how OpenVINO Toolkit™ can be used to interesting edge AI projects like handling video streams and building a web application with MQTT communication layer. That being said, the first project is <b>*Deploy a People Counter App at the Edge*.</b> Basically, the project requires the student to leverage pre-trained models from different industry-standard machine learning frameworks to detect persons per frame and create a logic that coounts the number of people going in and out of the frame.
+
+<img src="/img/posts/2020-07-31-intel-edge-ai-nanodegree/people-counter-image.png" alt="people-counter-image" width="883" height="453">
+
+The first project is a little bit challenging in that, you need to explore pre-trained models to detect
+<h4>Choosing the Right Hardware
+</h4>
+<h3>Disclaimer
+</h3>Since this is the first time that I make a blog setting up the whole thing, you probably want to know how I managed to get three scholarships from Udacity. I am excited to tell my  story in the upcoming days.
