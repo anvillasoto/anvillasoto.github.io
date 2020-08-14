@@ -1,0 +1,41 @@
+Lab 1.1. Configuring the System for 'sudo' - not done
+
+Lab 2.1. Sizes of the Default Linux Directories - not done
+Lab 2.2. Touring the /proc Filesystem - not done
+
+Lab 3.1. Controlling Processes with ulimit - not done
+Lab 3.2. Examining System V IPC Activity - not done
+
+Lab 4.1. Examining Signal Priorities and Execution - not done
+
+Lab 5.1. Version Control with git - not done but I am probably familiar
+
+Lab 6.1. Using RPM - not done
+Lab 6.2. Rebuilding the RPM DatabaseLab 6.2. Rebuilding the RPM Database - not done
+    Notes:
+    1. Requires installation of RHEL based distro. I prefer CentOS 7
+    2. https://www.how2shout.com/how-to/how-to-install-centos-8-on-wsl-windows-10.html
+    3. August 14, I downloaded CentOS 7 per instructions. see Downloads folder for details.
+
+Lab 7.1. Using dpkg - not done
+    Notes:
+    1. You must focus on this as Ubuntu will be the environment of the exam.
+
+
+Lab 8.1. Basic YUM Commands - not done
+Lab 8.2. Using yum to Find Information About a Package - not done
+Lab 8.3. Managing Groups of Packages with yum - not done
+Lab 8.4. Adding a New yum Repository - not done
+
+Lab 9.1. Basic zypper Commands
+Lab 9.2. Using zypper to Find Information About a Package
+    Notes:
+    1. SUSE environment must be installed
+
+Lab 10.1. Basic APT Commands - not done
+Lab 10.2. Using APT to Find Information About a Package - not done
+Lab 10.3. Managing Groups of Packages with APT - not done
+    Notes: 
+    1. Focus on this one
+
+Lab 11.1. Using stress or stress-ng - not done
