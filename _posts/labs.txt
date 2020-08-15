@@ -39,3 +39,21 @@ Lab 10.3. Managing Groups of Packages with APT - not done
     1. Focus on this one
 
 Lab 11.1. Using stress or stress-ng - not done
+
+
+Process Monitoring
+
+Memory Monitoring and Usage
+
+Lab 14.1. bonnie++ - not done
+Lab 14.2. fs_mark - not done
+
+Lab 15.1. Comparing I/O Schedulers - not done
+
+Lab 16.1. The tmpfs Special Filesystem - not done
+
+Only do the First one. The rest should only be read.
+Lab 17.1. Using a File as a Disk Partition Image - you can do this, not done
+Lab 17.2. Partitioning a Disk Image File - DO NOT DO THIS
+Lab 17.3. Using losetup and parted - DO NOT DO THIS
+Lab 17.4. Partitioning a Real Hard Disk - DO NOT DO THIS
