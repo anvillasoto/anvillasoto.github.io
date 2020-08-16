@@ -57,3 +57,38 @@ Lab 17.1. Using a File as a Disk Partition Image - you can do this, not done
 Lab 17.2. Partitioning a Disk Image File - DO NOT DO THIS
 Lab 17.3. Using losetup and parted - DO NOT DO THIS
 Lab 17.4. Partitioning a Real Hard Disk - DO NOT DO THIS
+
+Lab 18.1. Working with File Attributes - not done
+Lab 18.2. Mounting Options - not done
+
+Lab 19.1. Managing Swap Space - not done
+Lab 19.2. Filesystem Quotas - not done
+
+Lab 20.1. Defragmentation - not done (preferably not do this)
+Lab 20.2. Modifying Filesystem Parameters with tune2fs - not done
+
+Lab 21.1. Finding Out More about XFS - not done
+Lab 21.2. Finding Out More about btrfs - not done
+
+Lab 22.1. Disk Encryption - not done
+Lab 22.2. Encrypted Swap - not done
+
+Lab 23.1. Logical Volumes - not done
+
+Lab 24.1. Creating a RAID Device - not done
+
+Lab 25.1. System Tunables with sysctl - not done
+Lab 25.2. Changing the Maximum Process ID - not done
+
+I am excited that as a kernel module developer before, I am refreshed with 
+kernel modules. Now I am interested in continuing my project with this
+Lab 26.1. Kernel Modules - not done
+
+Lab 27.1. udev
+
+Probably not do this because of native Windows may not run nested virtualization.
+Lab 28.1. Ensuring KVM Is Properly Set Up - not done
+Lab 28.2. Using virt-manager with KVM to Install a VM and Run It - not done
+Lab 28.3. Installing a VM from the Command Line - not done
+
+Lab 29.1. Installing and Testing Apache (httpd) as a Docker Application - not done
