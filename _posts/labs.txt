@@ -101,3 +101,24 @@ Lab 31.1. Working with Groups - not done
 Lab 32.1. Using chmod - not done
 Lab 32.2. umask - not done
 Lab 32.3. Using Access Control Lists - not done
+
+Lab 35.1. Static Configuration of a Network Interface - not done
+Lab 35.2. Adding a Static Hostname - not done
+Lab 35.3. Adding a Network Interface Alias/Address Using nmcli - not done
+Lab 35.4. Adding a Static Route Using nmcli - not done
+
+Lab 36.1. Installing firewalld - not done
+Lab 36.2. Examining firewall-cmd - not done
+Lab 36.3. Adding Services to a Zone - not done
+Lab 36.4. Using the firewall GUI - not done
+
+Lab 37.1. Shutdown vs. Halt vs. Reboot - not done
+
+Lab 38.1. Booting into Non-Graphical Mode Using GRUB - not done
+
+Lab 39.1. Adding a New Startup Service with SysVinit - not done
+Lab 39.2. Adding a New Startup Service with systemd - not done
+
+Lab 40.1. Using tar for Backup - not done
+Lab 40.2. Using cpio for Backup - not done
+Lab 40.3. Using rsync for Backup - not done
