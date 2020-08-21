@@ -122,3 +122,15 @@ Lab 39.2. Adding a New Startup Service with systemd - not done
 Lab 40.1. Using tar for Backup - not done
 Lab 40.2. Using cpio for Backup - not done
 Lab 40.3. Using rsync for Backup - not done
+
+Lab 41.1. SELinux Contexts - not done
+Lab 41.2. Explore the apparmor Security - not done
+
+Lab 42.1. Security and Mount Options - not done
+Lab 42.2. More on setuid and Scripts - not done
+
+Lab 44.1. Preparing to Use Rescue/Recovery Media - not done
+Lab 44.2. Recovering from a Corrupted GRUB Configuration - not done
+Lab 44.3. Recovering from Password Failure - not done
+Lab 44.4. Recovering from Partition Table Corruption - not done
+Lab 44.5. Recovering Using the Install Image - not done
