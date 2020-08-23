@@ -58,6 +58,9 @@ Lab 17.2. Partitioning a Disk Image File - DO NOT DO THIS
 Lab 17.3. Using losetup and parted - DO NOT DO THIS
 Lab 17.4. Partitioning a Real Hard Disk - DO NOT DO THIS
 
+Update as of August 23, 2020:
+    Explore fdisk more on a real hard disk
+
 Lab 18.1. Working with File Attributes - not done
 Lab 18.2. Mounting Options - not done
 
