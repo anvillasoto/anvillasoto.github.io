@@ -4,7 +4,7 @@ description:        Web and Mobile Applications Developer
 author:             Alexander Villasoto
 baseurl:            "/"
 url:                "anvillasoto.com"
-formspree:          ${{ secrets.FORMSPREE_CODE }}
+formspree:          myyowbko
 
 # Social Profiles
 twitter_username:   anvillasoto
